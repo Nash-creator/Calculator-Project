@@ -1,3 +1,5 @@
+
+
 #intro {
     color:aqua;
     text-align: center;
@@ -6,4 +8,23 @@
 
 body {
     background-color: azure;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    padding: 14px;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.calcContainer {
+    background-color: bisque;
+    flex: 1;
+    border-radius: 14px;
+    padding: 14px;
+    display: flex;
+    flex-direction: column;
+        
 }
