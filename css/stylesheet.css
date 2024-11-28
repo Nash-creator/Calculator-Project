@@ -1,4 +1,9 @@
-
+:root {
+    --bg-color: #c0ffe6;
+    --text-color:#aa83ff;
+    --bg-light: #fcf9ae;
+    --accent-color:#f5b7ff;
+}
 
 #intro {
     color:aqua;
